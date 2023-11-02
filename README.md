@@ -52,6 +52,6 @@ The primary product/service at [CONCURED](https://concured.com/) is the Recommen
 
 ## Contact
 Mail me at [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
-
-LinkedIn: [https://www.linkedin.com/in/sheik-sadi-rohmotullah/](https://www.linkedin.com/in/sheik-sadi-rohmotullah/)
+<br>
+LinkedIn: [https://www.linkedin.com/in/sheik-sadi-rohmotullah/](https://www.linkedin.com/in/sheik-sadi-rohmotullah)
 
