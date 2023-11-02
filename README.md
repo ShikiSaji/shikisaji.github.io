@@ -1,4 +1,6 @@
-**Backend | Data Science | NLP**
+<p align="center">
+  <b>Backend | Data Science | NLP</b>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow" />
