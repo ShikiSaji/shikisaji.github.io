@@ -1,6 +1,3 @@
-# Sheik Sadi Rohmotullah
-_Electrical and Electronics Engineer with 2 years Back-end Python development experience. Proven ability to develop robust and scalable software. Expertise in MongoDB, ElasticSearch, FastAPI, GCP, and NLP. Experience in recommender systems, data pipelines, and machine learning._
-
 **Backend | Data Science | NLP**
 <p align="center">
   <a href="https://skillicons.dev">
