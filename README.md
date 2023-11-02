@@ -12,7 +12,6 @@
 **Crop and bound-box interesting regions of an image (smart cropping) from saliency maps generated with SAM-LSTM-RESNET model** (details [here](https://shikisaji.github.io/SAM-LSTM-RESNET/))
 
 ![image](https://github.com/SheikSadi/SheikSadi/assets/34588815/ceac1dbc-338b-48df-b90e-055bee4914d1)
-<p align="center"><a href=https://github.com/SheikSadi/SAM-LSTM-RESNET><i>See on GitHub</i></a></p>
 
 ## PROFESSIONAL EXPERIENCE
 **[CONCURED Limited](https://concured.com/) Feb 2022 – PRESENT**
